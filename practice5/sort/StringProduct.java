@@ -17,5 +17,6 @@ public class StringProduct {
         System.out.println("String 2");
         String s2 = sc.next();
         System.out.println(product(s1, s2));
+        sc.close();
     }
 }
